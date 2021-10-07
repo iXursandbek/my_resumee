@@ -1,44 +1,43 @@
 # Ibadullayev Xursandbek | Web developer
 _______________________
-# SKILLS
-
-# Programming skills
+## SKILLS
+## Programming skills
 * Python
 * C++
 * HTML
 * CSS
 
-# Language
+## Language
 * English
 * Russian
 * Uzbek
 
-# Technologies
+## Technologies
 * Django
 * Git/GitHub
 * Bootstrap
 
-# COMPUTER 
+## COMPUTER 
 * Linux
 * Windows
 * Microsoft Office
 * Google Ads/Slides/Doc
 ________________________
-# EDUCATION
+## EDUCATION
 * Bacheolor : TUIT
 ________________________
-# HOBBIES
+## HOBBIES
 * Reading Book
 * Sport
 * Travel
 ________________________
-# COGNITIVE TRAITS
+## COGNITIVE TRAITS
 * Communication
 * Flexibility and adabtability
 * Quick learner
 * Team Oriented
 _________________________
-# CONTACT
+## CONTACT
 * E-mail: ixursandbek@mail.ru
 * Phone: +998941141095
 * Telegram: [@iXursand](http://t.me/iXursand)
